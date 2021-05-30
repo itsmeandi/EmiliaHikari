@@ -10,9 +10,9 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR KEY HERE"
-    OWNER_ID = "YOUR ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"
+    API_KEY = "1796788090:AAG10KauBDCDh7WJQgzq9AvCVWRv-R3eLkg"
+    OWNER_ID = "1407016027"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "sherlockholmes291"
     # Some API is required for more features
     API_OPENWEATHER = ""
     API_ACCUWEATHER = ""
